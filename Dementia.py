@@ -16,8 +16,6 @@ from PIL import Image
 port_stem = PorterStemmer()
 import time
 from pygoogletranslation import Translator
-import smtplib
-from email.message import EmailMessage
 import nltk
 import ssl
 try:
