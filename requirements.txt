@@ -1,7 +1,7 @@
-keras==2.15.0
-tensorflow==2.15.0
-numpy==1.26.3
-opencv_contrib_python==4.8.1.78
-opencv_python==4.8.1.78
+keras==3.3.3
+tensorflow==2.17.0
+numpy==1.26.4
+opencv_contrib_python==4.10.0.84
+opencv_python==4.10.0.84
 scikit_learn==1.3.2
-streamlit==1.31.1
+streamlit==1.36.0
